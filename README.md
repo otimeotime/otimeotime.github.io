@@ -1,1 +1,2 @@
-# otimeotime.github.io
+# Otime's blog
+## A technical diary
